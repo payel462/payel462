@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/programmer-working-flat-design_1325-3028.jpg?w=996)
+![MasterHead](https://img.freepik.com/premium-vector/programmer-working-flat-design_1325-3028.jpg?w=996)
 <h1 align="center">Hi 👋, I'm Payel Chakraborty</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif">
